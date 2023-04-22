@@ -1,0 +1,19 @@
+{
+    "name": "sdkrajsdk/sumit",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Sumit\\": ""
+        }
+    }
+}

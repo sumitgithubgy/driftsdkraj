@@ -1,0 +1,11 @@
+{
+    "name": "Sumit",
+    "alias": "sumit",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Sumit\\Providers\\SumitServiceProvider"
+    ],
+    "files": []
+}
